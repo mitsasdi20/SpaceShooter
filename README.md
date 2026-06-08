@@ -1,5 +1,9 @@
 # SpaceShooter Game
 
+<img width="1002" height="832" alt="image" src="https://github.com/user-attachments/assets/1fd5d526-9f10-4bde-aed8-2aac64505f99" />
+
+
+
 A 2D survival arcade game built using Python and the Pygame library. The player controls an aircraft navigating through space, avoiding hazards and collecting power-ups to prolong survival.
 
 # Gameplay Mechanics
